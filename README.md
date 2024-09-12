@@ -1,23 +1,23 @@
-Automation Test Framework
+**Automation Test Framework**
 This project is a basic example of UI automation using Selenium WebDriver and TestNG for the ****** website. 
 
-Prerequisites
+**Prerequisites**
 Before you begin, ensure you have met the following requirements:
 Java Development Kit (JDK) installed (version 11.0.19).
 Maven installed.
 Chrome browser installed.
 
-Clone the repository :
+**Clone the repository :**
 git clone (https://github.com/Kiru30-git/Frontend-Test-Framework)
 
-Set up Maven project: 
+**Set up Maven project:** 
 Ensure your pom.xml is configured to include the necessary dependencies for Selenium and TestNG.
 Version of Selenium 4.1.0
 Version of testng 7.4.0 
 
 Running the Test Compile and run the test: You can compile and run the test using your IDE or using Maven from the command line: mvn test
 
-Packages and its contents:
+**Packages and its contents:**
 Base:
 This package consists of  code details to select which browser to launch the website url, loading the properties file and handling synchronisation issues by implementing waits.
 
